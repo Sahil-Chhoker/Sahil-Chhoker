@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Sahil Chhoker
-- 🔭 I’m currently working on a python game
-- 🌱 I’m currently learning python
-- 💬 Ask me about game development in unity
+- 🔭 I’m currently working on a python game.
+- 🌱 I’m currently learning python.
+- 💬 Ask me about game development in unity.
 
 <!--
 **Sahil-Chhoker/Sahil-Chhoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
