@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python.
 - 💬 Ask me about game development in unity.
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/sahil-chhoker/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-chhoker&layout=donut-vertical)](https://github.com/sahil-chhoker/github-readme-stats)
 
 - <a href="https://github.com/sahil-chhoker/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-chhoker" />
