@@ -3,13 +3,13 @@
 - 🌱 I’m currently learning python.
 - 💬 Ask me about game development in unity.
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/sahil-chhoker/github-readme-stats)
 
-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+- <a href="https://github.com/sahil-chhoker/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-chhoker" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-chhoker&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <!--
