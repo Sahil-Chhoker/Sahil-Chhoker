@@ -4,6 +4,7 @@
 - 💬 Ask me about game development in unity.
 - 📫 How to reach me: E-mail : chhokersahil435@gmail.com
 - 😄 Pronouns: He/Him
+- ---
 <a href="https://github.com/sahil-chhoker/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-chhoker&show_icons=true&theme=dark" />
 </a>
@@ -11,6 +12,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-chhoker&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+---
 
 ### MY SKILLS : 
 [![My Skills](https://skillicons.dev/icons?i=cs,python,unity,dotnet,github,ps)](https://skillicons.dev)
