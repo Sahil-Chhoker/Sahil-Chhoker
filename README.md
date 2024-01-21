@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Sahil Chhoker
 - 🔭 I’m currently working on a Tower Defence Game.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python and go.
 - 💬 Ask me about game development in unity.
 - 📫 How to reach me: E-mail : chhokersahil435@gmail.com
 - 😄 Pronouns: He/Him
