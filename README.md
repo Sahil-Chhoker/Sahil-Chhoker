@@ -1,8 +1,8 @@
-### Hi there 👋 I am Sahil Chhoker
-- 🔭 I’m currently working on a Tower Defence Game.
-- 🌱 I’m currently learning python and go.
-- 💬 Ask me about game development in unity.
-- 😄 Pronouns: He/Him
+  # Hi there 👋 I am Sahil Chhoker
+  - 🔭 I’m currently working on a Tower Defence Game.
+  - 🌱 I’m currently learning python and go.
+  - 💬 Ask me about game development in unity.
+  - 😄 Pronouns: He/Him
 - ---
 <a href="https://github.com/sahil-chhoker/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-chhoker&show_icons=true&theme=dark" />
