@@ -14,7 +14,7 @@
 ---
 
 ### MY SKILLS : 
-[![My Skills](https://skillicons.dev/icons?i=cs,python,go,unity,dotnet,github,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,python,go,unity,dotnet,git,github,ps)](https://skillicons.dev)
 
 <!--
 **Sahil-Chhoker/Sahil-Chhoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
