@@ -1,4 +1,4 @@
-  # Hi there 👋 I am Sahil Chhoker
+  # I am Sahil Chhoker
   - 🔭 I’m currently working on a Tower Defence Game.
   - 🌱 I’m currently learning python and go.
   - 💬 Ask me about game development in unity.
