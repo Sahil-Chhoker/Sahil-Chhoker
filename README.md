@@ -4,11 +4,16 @@
   - 🌱 I’m currently learning python and go.
   - 💬 Ask me about game development in unity.
   - 😄 Pronouns: He/Him
-- ---
+----
 <a href="https://github.com/sahil-chhoker/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-chhoker&show_icons=true&theme=dark" />
 </a>
----
+
+
+
+![Snake animation](https://github.com/sahil-chhoker/sahil-chhoker/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
+
+----
 
 ### MY SKILLS : 
 [![My Skills](https://skillicons.dev/icons?i=cs,python,go,unity,dotnet,git,github,discord,ps)](https://skillicons.dev)
