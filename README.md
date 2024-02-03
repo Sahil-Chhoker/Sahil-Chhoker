@@ -2,7 +2,7 @@
   ## I am Sahil Chhoker, and
   - 🔭 I’m currently working on a Tower Defence Game.
   - 🌱 I’m currently learning python and go.
-  - 💬 Ask me about game development in unity.
+  - 💬 Ask me about game development in Unity.
   - 😄 Pronouns: He/Him 
 ----
 <a href="https://github.com/sahil-chhoker/github-readme-stats">
