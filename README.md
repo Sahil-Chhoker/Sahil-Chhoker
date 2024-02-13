@@ -13,6 +13,10 @@
 
 ----
 
+![Snake animation](https://github.com/sahil-chhoker/sahil-chhoker/blob/output/github-contribution-grid-snake.svg)
+
+----
+
 ### MY SKILLS : 
 [![My Skills](https://skillicons.dev/icons?i=cs,python,go,unity,dotnet,git,github,discord,ps)](https://skillicons.dev)
 
