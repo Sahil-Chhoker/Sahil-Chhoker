@@ -11,7 +11,7 @@
 
 ----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-chhoker&hide=asp.net,shaderlab,hlsl,html&layout=donut)](https://github.com/sahil-chhoker/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-chhoker&hide=asp.net,shaderlab,hlsl,html&layout=donut&theme=cobalt)](https://github.com/sahil-chhoker/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sahil-chhoker&theme=dark&background=000000)](https://git.io/streak-stats)
 
