@@ -3,15 +3,17 @@
   - 🔭 I’m currently working on a Tower Defence Game in Unity.
   - 🌱 I’m currently learning Python and Go.
   - 💬 Ask me about GameDev in Unity.
-  - 😄 Pronouns: He/Him 
+  - 😄 Pronouns: He/Him
 ----
+
 <a href="https://github.com/sahil-chhoker/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-chhoker&show_icons=true&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-chhoker&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/sahil-chhoker/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-chhoker&hide=asp.net,shaderlab,hlsl,html&layout=donut&theme=radical" />
 </a>
 
 ----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-chhoker&hide=asp.net,shaderlab,hlsl,html&layout=donut&theme=cobalt)](https://github.com/sahil-chhoker/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sahil-chhoker&theme=dark&background=000000)](https://git.io/streak-stats)
 
