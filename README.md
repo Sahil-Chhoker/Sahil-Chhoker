@@ -7,7 +7,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-chhoker&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/sahil-chhoker/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-chhoker&hide=asp.net,shaderlab,hlsl,html&layout=donut&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-chhoker&layout=donut&theme=radical" />
 </a>
 
 ----
