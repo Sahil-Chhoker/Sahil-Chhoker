@@ -1,5 +1,6 @@
  # Hi there, I am Sahil Chhoker, and
   - 🔭 I’m currently working on a Tower Defence Game in Unity.
+  - 🌱 I’m currently learning Django.
   - 💬 Ask me about GameDev in Unity and development in Python.
 ----
 
@@ -33,7 +34,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
