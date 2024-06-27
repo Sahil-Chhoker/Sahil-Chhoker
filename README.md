@@ -1,6 +1,6 @@
  # Hi there, I am Sahil Chhoker, and
-  - 🔭 I’m currently working on a Online Code Editor
-  - 🌱 I’m currently learning Django
+  - 🔭 I’m currently working on Problem-Piper
+  - 🌱 I’m currently learning FastAPI
   - 💬 Ask me about GameDev in Unity and development in Python
 ----
 
@@ -24,7 +24,7 @@
 <!--- ![Snake animation](https://github.com/sahil-chhoker/sahil-chhoker/blob/output/github-contribution-grid-snake.svg)-->
 
 ### MY SKILLS : 
-[![My Skills](https://skillicons.dev/icons?i=python,cs,go,unity,postgresql,dotnet,git,github,discord,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,postgresql,cs,go,unity,dotnet,git,github,discord,ps)](https://skillicons.dev)
 
 ---
 
