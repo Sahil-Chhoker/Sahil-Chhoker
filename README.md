@@ -1,5 +1,5 @@
  # Hi there, I am Sahil Chhoker, and
-  - 🔭 I’m currently working on Problem-Piper
+  - 🔭 I’m currently working on Detoxify
   - 🌱 I’m currently learning FastAPI
   - 💬 Ask me about GameDev in Unity and development in Python
 ----
