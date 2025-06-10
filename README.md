@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a46ddce9-14a3-46b5-9e36-63a884ac27ed)
+![image](https://github.com/user-attachments/assets/01d34795-62f2-40e0-a409-cc1dd93b58d0)
 
 # 👋 Hi there, I'm Sahil Chhoker
 
