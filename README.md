@@ -3,8 +3,7 @@
 # 👋 Hi there, I'm Sahil Chhoker
 
 I'm a software engineer who enjoys building tools, systems, and games.  
-Currently working on **B3T (Broad Band Bluetooth)** – a system to manage multiple Bluetooth devices.  
-Also actively contributing to **[Mesa](https://github.com/projectmesa/mesa)** – a Python library for agent-based modeling.
+Currently actively contributing to **[Mesa](https://github.com/projectmesa/mesa)** – a Python library for agent-based modeling.
 
 ---
 
@@ -27,25 +26,20 @@ Also actively contributing to **[Mesa](https://github.com/projectmesa/mesa)** �
 
 ## 🔧 Projects & Contributions
 
-### 🔵 B3T: Broad Band Bluetooth  
-> A Python-based system to manage and communicate with **multiple Bluetooth devices** in parallel.
-
-- Focused on usability and modular design
-- Built with real-world circuit experimentation in mind
-
 ### 🧠 Mesa (Agent-Based Modeling Framework)  
 > I'm actively contributing to **Mesa’s front-end visualization system**.  
 - Improving modular APIs and Altair/Matplotlib backends  
 - Writing tests, enhancing docs, and helping simplify visuals for modelers
 
 ---
-
+<!--
 ## 📚 Currently Exploring
 
 - Bluetooth LE device discovery and communication
 - Basic gates and their designs in Cadence Virtuoso
 
 ---
+-->
 
 ## 📬 Let's Connect
 
